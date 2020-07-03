@@ -1,5 +1,7 @@
 """
 Convert GE scanner physiological recording files to BIDS format.
+
+Niall Duncan, 2020
 """
 
 import os

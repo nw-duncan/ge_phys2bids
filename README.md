@@ -9,4 +9,5 @@ This is a work in progress and will hopefully become more beautiful in the futur
 
 ### Other formats
 For Siemens scanners - https://github.com/tarrlab/physio2bids
+
 For Biopac - https://github.com/physiopy/phys2bids
